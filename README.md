@@ -13,6 +13,7 @@ Initially we will be supplying the software to the following practices:
   <a href="http://www.bostonlasikvision.com">Boston Lasik Vision </a>
   
   Software will be provided for free to these 8 practices then we will roll out to 120 practices.
+  We will keep you updated...
   
   
   
